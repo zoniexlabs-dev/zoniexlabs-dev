@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1455386308083187838/1456123788684165272/1767060223840_1.png?ex=695dcff4&is=695c7e74&hm=f8d8d96ae32d4ad824de291e2edd2d30d438d4ee84b7c20f3cfc3c0bb789fead&=&width=624&height=900" alt="ZoniexLabs" width="1200"/>
+<img src="https://media.discordapp.net/attachments/1455386308083187838/1456123788684165272/1767060223840_1.png?ex=695dcff4&is=695c7e74&hm=f8d8d96ae32d4ad824de291e2edd2d30d438d4ee84b7c20f3cfc3c0bb789fead&=&width=624&height=500" alt="ZoniexLabs" width="800"/>
 
 <h3>ZoniexLabs</h3>
 <p>Crafting software, platforms, and infrastructure.</p>
