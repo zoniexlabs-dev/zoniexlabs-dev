@@ -36,5 +36,5 @@
 ---
 
 <div align="center">
-<sub>© ZoniexLabs</sub>
+<sub>© 2026 ZoniexLabs. All rights reserved.</sub>
 </div>
